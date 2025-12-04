@@ -1,8 +1,7 @@
-/*
-    MÓDULO: APT REINGRESO AUTOMÁTICO (Nube)
-    Versión: v-1.0
-    Descripción: Lógica de reingreso y notificación parpadeante.
-*/
+//    MÓDULO: APT REINGRESO AUTOMÁTICO (Nube)
+//    Versión: v-1.0
+//    Descripción: Lógica de reingreso y notificación parpadeante.
+
 
 (function() {
     'use strict';
